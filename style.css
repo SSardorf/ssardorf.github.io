@@ -1,0 +1,38 @@
+html, body {
+margin:0;
+padding:0;
+}
+
+
+header{
+	border-bottom: 4px solid #58A4B0;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: #373F51;
+}
+
+h1{
+	transition: 0.5s;
+	margin-left: 40px;
+	font-size: 1.5em;
+	color:#58A4B0;
+}
+
+h1:hover{
+	transition: 0.5s;
+	text-decoration: underline;
+}
+nav {
+	float: right;
+	margin-right: 10px;
+}
+
+ul a {
+	color: #58A4B0;
+	text-decoration: none;
+	margin-right: 20px;
+}
+ul a:hover{
+	text-decoration: underline;
+}
