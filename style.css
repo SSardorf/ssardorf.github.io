@@ -34,6 +34,7 @@ ul a {
 	color: #58A4B0;
 	text-decoration: none;
 	margin-right: 20px;
+	font-size: 1.2em;
 }
 ul a:hover{
 	text-decoration: underline;
