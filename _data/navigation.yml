@@ -1,6 +1,8 @@
 main:
   - title: "Resume"
     url: /resume/
+  - title: "Contact"
+    url: /contact/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
